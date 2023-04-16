@@ -1,4 +1,4 @@
-# node-fashion-blog
+# Blogging Application
 
 This is a simple full stack blogging application where the owner of the blog can add, edit, display and delete contents.
 preview app - https://fashion-web-blog.onrender.com/
