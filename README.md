@@ -17,8 +17,8 @@ In the project directory, run: npm install
 
 Create a .env file in the root directory. Add the following variables in order to test it locally:
 
-PORT=3000
-MONGODB_URI=
+- PORT=3000
+- MONGODB_URI=
 
 ## Start Application
 
